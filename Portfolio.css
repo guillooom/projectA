@@ -1,0 +1,81 @@
+header {
+    background-color: rgba(211, 236, 238, 0.822);
+    height: 100px;
+    align-content: center;
+}
+
+.cont3 {
+    color: rgb(28, 166, 201);
+    font-size: 20px;
+    margin-top: 55px;
+    margin-left: 15px;
+    height: 5px;
+    position: absolute;
+}
+
+.navbar {}
+
+body {
+    background-color: white;
+}
+
+.navbar-left {
+    color: blue;
+}
+
+#cover-photo {
+    background-image: url("./Images/img.jpg");
+    background-repeat: no-repeat;
+    height: 70rem;
+    background-position: center center;
+    background-size: cover;
+}
+
+.cont1 {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 200px;
+    background-image: url("./images/Group.png");
+}
+
+#image-area {
+    height: 10px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 10rem;
+    size: 10px;
+    max-width: 100%;
+    font-family: Helvetica;
+    font-size: 30px;
+}
+
+#content-area {
+    margin-top: 100px;
+    height: 500px;
+    font-family: Helvetica;
+    color: rgb(28, 166, 201);
+    font-family: Helvetica;
+    font-size: 30px;
+    background-position: center center;
+    background-size: cover;
+    background-color: rgb(116, 201, 223)
+}
+
+#bouton {
+    color: rgb(28, 166, 201);
+    margin-top: 150px;
+    margin-left: 500px;
+    position: absolute;
+    font-size: 30px;
+    font-family: Helvetica;
+}
+
+#explain {
+    color: rgb(104, 115, 219);
+    margin-top: 60px;
+    margin-left: 500px;
+    position: absolute;
+    font-size: 50px;
+    font-family: Helvetica;
+}
